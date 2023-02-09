@@ -3,6 +3,14 @@
     {
       "id": 1,
       "name": "Myra"
+    },
+    {
+      "name": "Wilbert Kozey",
+      "id": 2
+    },
+    {
+      "name": "Seth Runolfsson",
+      "id": 3
     }
   ],
   "albums": [],
