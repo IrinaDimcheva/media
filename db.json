@@ -9,32 +9,12 @@
       "id": 4
     },
     {
-      "name": "Kirk Jones",
-      "id": 7
-    },
-    {
       "name": "Philip Schiller",
       "id": 9
     },
     {
-      "name": "Christie Adams",
-      "id": 10
-    },
-    {
       "name": "Diane White",
       "id": 13
-    },
-    {
-      "name": "Sheri Oberbrunner",
-      "id": 15
-    },
-    {
-      "name": "Rodney Heller",
-      "id": 16
-    },
-    {
-      "name": "Irene Jaskolski",
-      "id": 17
     },
     {
       "name": "Joel Gulgowski",
@@ -51,6 +31,14 @@
     {
       "name": "Walter Shanahan",
       "id": 24
+    },
+    {
+      "name": "Brendan Konopelski",
+      "id": 25
+    },
+    {
+      "name": "Clinton Stanton III",
+      "id": 26
     }
   ],
   "albums": [],
