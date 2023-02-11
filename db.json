@@ -5,32 +5,12 @@
       "name": "Myra"
     },
     {
-      "name": "Wilbert Kozey",
-      "id": 2
-    },
-    {
-      "name": "Seth Runolfsson",
-      "id": 3
-    },
-    {
       "name": "Jesse Prosacco",
       "id": 4
     },
     {
-      "name": "Samuel Welch II",
-      "id": 5
-    },
-    {
-      "name": "Marcos Morissette IV",
-      "id": 6
-    },
-    {
       "name": "Kirk Jones",
       "id": 7
-    },
-    {
-      "name": "Bertha Upton",
-      "id": 8
     },
     {
       "name": "Philip Schiller",
@@ -41,20 +21,8 @@
       "id": 10
     },
     {
-      "name": "Hubert Bosco V",
-      "id": 11
-    },
-    {
-      "name": "Myrtle Fay",
-      "id": 12
-    },
-    {
       "name": "Diane White",
       "id": 13
-    },
-    {
-      "name": "Kristy Cummerata",
-      "id": 14
     },
     {
       "name": "Sheri Oberbrunner",
@@ -69,28 +37,20 @@
       "id": 17
     },
     {
-      "name": "Mandy MacGyver IV",
-      "id": 18
-    },
-    {
-      "name": "Charles Mayert",
-      "id": 19
-    },
-    {
       "name": "Joel Gulgowski",
       "id": 20
-    },
-    {
-      "name": "Amber Willms",
-      "id": 21
     },
     {
       "name": "Leticia Reinger",
       "id": 22
     },
     {
-      "name": "Ms. Sabrina Schuster",
+      "name": "Marshall Schinner",
       "id": 23
+    },
+    {
+      "name": "Walter Shanahan",
+      "id": 24
     }
   ],
   "albums": [],
