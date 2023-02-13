@@ -17,3 +17,18 @@ Content-Type: application/json
 # Delete an user
 DELETE http://localhost:3005/users/24 HTTP/1.1
 Content-Type: application/json
+
+###
+
+# Get all albums
+GET http://localhost:3005/albums?user=1 HTTP/1.1
+Content-Type: application/json
+
+# # Create an album
+# POST http://localhost:3005/albums HTTP/1.1
+# Content-Type: application/json
+
+# {
+#   "name": "Hiking",
+#   "userId": 1
+# }
