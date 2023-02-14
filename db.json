@@ -54,16 +54,6 @@
     },
     {
       "userId": 1,
-      "title": "Generic Cotton Towels",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Small Cotton Towels",
-      "id": 15
-    },
-    {
-      "userId": 1,
       "title": "Generic Fresh Gloves",
       "id": 16
     },
@@ -71,11 +61,6 @@
       "userId": 1,
       "title": "Elegant Bronze Towels",
       "id": 17
-    },
-    {
-      "userId": 1,
-      "title": "Fantastic Bronze Soap",
-      "id": 18
     },
     {
       "userId": 4,
@@ -98,11 +83,6 @@
       "id": 22
     },
     {
-      "userId": 9,
-      "title": "Sleek Granite Chips",
-      "id": 23
-    },
-    {
       "userId": 1,
       "title": "Oriental Concrete Fish",
       "id": 24
@@ -111,11 +91,6 @@
       "userId": 4,
       "title": "Elegant Cotton Car",
       "id": 25
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Frozen Hat",
-      "id": 26
     }
   ],
   "photos": []
