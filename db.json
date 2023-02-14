@@ -31,14 +31,6 @@
     {
       "name": "Walter Shanahan",
       "id": 24
-    },
-    {
-      "name": "Brendan Konopelski",
-      "id": 25
-    },
-    {
-      "name": "Clinton Stanton III",
-      "id": 26
     }
   ],
   "albums": [
@@ -83,14 +75,14 @@
       "id": 22
     },
     {
-      "userId": 1,
-      "title": "Oriental Concrete Fish",
-      "id": 24
-    },
-    {
       "userId": 4,
       "title": "Elegant Cotton Car",
       "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "Generic Metal Mouse",
+      "id": 26
     }
   ],
   "photos": []
