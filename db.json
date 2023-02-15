@@ -83,7 +83,63 @@
       "userId": 1,
       "title": "Generic Metal Mouse",
       "id": 26
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Concrete Table",
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Metal Keyboard",
+      "id": 28
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Plastic Shoes",
+      "id": 29
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=70145",
+      "albumId": 22,
+      "id": 3
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30970",
+      "id": 4
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=36553",
+      "id": 5
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=57897",
+      "id": 6
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11428",
+      "id": 7
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73059",
+      "id": 8
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65757",
+      "id": 9
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93668",
+      "id": 10
+    }
+  ]
 }
